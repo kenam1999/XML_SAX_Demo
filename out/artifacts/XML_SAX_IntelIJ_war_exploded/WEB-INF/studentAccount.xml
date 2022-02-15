@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="98765" class="SE0662">
+        <lastname>Kieu</lastname>
+        <middlename>T.</middlename>
+        <firstname>Khanh</firstname>
+        <sex>1</sex>
+        <password>56897</password>
+        <address>45 Nguyen van a</address>
+        <status>studying</status>
+    </student>
+    <student id="fb45678" class="SE0668">
+        <lastname>Anh</lastname>
+        <middlename>X</middlename>
+        <firstname>Nguyen</firstname>
+        <sex>1</sex>
+        <password>123456</password>
+        <address>45 Nguyen van a</address>
+        <status>break</status>
+    </student>
+    <student id="fa12345" class="SE0668">
+        <lastname>Xuan</lastname>
+        <middlename>Kim</middlename>
+        <firstname>Tran</firstname>
+        <sex>1</sex>
+        <password>456321</password>
+        <address>45 Nguyen van a</address>
+        <status>dropout</status>
+    </student>
+    <student id="fc98765" class="SE0662">
+        <lastname>Thao</lastname>
+        <middlename>P.</middlename>
+        <firstname>Bui</firstname>
+        <sex>1</sex>
+        <password>456321</password>
+        <address>45 Nguyen van a</address>
+        <status>break</status>
+    </student>
+    <student id="fd258789" class="SE0668">
+        <lastname>Tin</lastname>
+        <middlename>T.</middlename>
+        <firstname>nguyen</firstname>
+        <sex>1</sex>
+        <password>456321</password>
+        <address>45 Nguyen van a</address>
+        <status>studying</status>
+    </student>
+</students>
